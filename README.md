@@ -1,4 +1,4 @@
-# simonSays
+# Simon Says
 Simon Says, the game of memorizing the letters that Simon tells you!
 
 ## How to play
